@@ -1,10 +1,11 @@
 import React from "react";
 import Layout from "../../components/Layout/Layout";
+import News from "../../components/NewsPage/NewsPage";
 
 const NewsPage = () => {
   return (
     <Layout>
-      <h1>News 1111</h1>
+      <News />
     </Layout>
   )
 }

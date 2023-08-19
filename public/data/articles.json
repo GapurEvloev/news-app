@@ -1,0 +1,424 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "John Doe",
+      "title": "Popp doubles down as Germany maul Morocco 6-0 - Reuters",
+      "description": "Popp doubles down as Germany maul Morocco 6-0  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy9zb2NjZXIvcG9wcC1kb3VibGVzLWRvd24tZ2VybWFueS1tYXVsLW1vcm9jY28tNi0wLTIwMjMtMDctMjQv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": "https://i.guim.co.uk/img/media/6a58760f4f5ca547c3981b0cd6e16bc30f2adb28/0_238_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7715e1a8c92f47a197ccfcac8fb1e9b0",
+      "publishedAt": "2023-07-25T04:27:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "2",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Jane Smith",
+      "title": "Lebanon seeks to reassure Gulf, Germany after travel warnings - Reuters",
+      "description": "Lebanon seeks to reassure Gulf, Germany after travel warnings  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2xlYmFub24tc2Vla3MtcmVhc3N1cmUtZ3VsZi1nZXJtYW55LWFmdGVyLXRyYXZlbC13YXJuaW5ncy0yMDIzLTA4LTA1L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": "https://i.guim.co.uk/img/media/e2bd76bc882697e5fc4093fb09d48eb73c0cdadf/0_67_4421_2652/master/4421.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d226b88ec488d1fceb1e15144d4d2e73",
+      "publishedAt": "2023-08-05T17:56:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "3",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Michael Johnson",
+      "title": "Taiwan chipmaker TSMC approves $3.8 bln Germany factory plan - Reuters",
+      "description": "Taiwan chipmaker TSMC approves $3.8 bln Germany factory plan  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvdGFpd2FuLWNoaXBtYWtlci10c21jLWFwcHJvdmVzLTM4LWJsbi1nZXJtYW55LWZhY3RvcnktcGxhbi0yMDIzLTA4LTA4L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": "https://i.guim.co.uk/img/media/40bff0674f7b91514609f69247085744d8181eb3/0_181_2992_1796/master/2992.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4252466f3a72138dfd790a5ec2c5666f",
+      "publishedAt": "2023-08-08T10:54:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "4",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Sarah Lee",
+      "title": "Morning Bid: Germany to kick off CPI mega-run - Reuters",
+      "description": "Morning Bid: Germany to kick off CPI mega-run  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZXVyb3BlL2dsb2JhbC1tYXJrZXRzLXZpZXctZXVyb3BlLTIwMjMtMDgtMDgv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": "https://i.guim.co.uk/img/media/f76ec78720df8bbd4b74379588a482f02abd28cc/0_223_5470_3283/master/5470.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8b8943e62e1f4fadc823215556f203ce",
+      "publishedAt": "2023-08-08T04:02:35Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "5",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Robert Williams",
+      "title": "Germany ends Bosnian Serb projects over secessionist moves - Reuters",
+      "description": "Germany ends Bosnian Serb projects over secessionist moves  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9nZXJtYW55LWVuZHMtYm9zbmlhbi1zZXJiLXByb2plY3RzLW92ZXItc2VjZXNzaW9uaXN0LW1vdmVzLTIwMjMtMDgtMDkv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": "https://i.guim.co.uk/img/media/fc1c980a32b10f834da2dd868d094f7887c1d332/0_146_4500_2701/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f237d0f7ac75eed20a12d25fe91e2f19",
+      "publishedAt": "2023-08-09T12:52:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "6",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Emily Brown",
+      "title": "Suspected spy for Russia arrested in Germany - prosecutors - Reuters",
+      "description": "Suspected spy for Russia arrested in Germany - prosecutors  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9zdXNwZWN0ZWQtc3B5LXJ1c3NpYS1hcnJlc3RlZC1nZXJtYW55LXByb3NlY3V0b3JzLTIwMjMtMDgtMDkv0gEA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": "https://i.guim.co.uk/img/media/646b785e9d0b73be84d47ccc1084377f8710ea15/0_162_5804_3484/master/5804.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=626052dc34b7ee26e341b99e1acca94e",
+      "publishedAt": "2023-08-09T15:49:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "7",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "David Martin",
+      "title": "Taiwan pitches deeper Europe engagement after TSMC Germany investment - Reuters",
+      "description": "Taiwan pitches deeper Europe engagement after TSMC Germany investment  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvdGFpd2FuLXBpdGNoZXMtZGVlcGVyLWV1cm9wZS1lbmdhZ2VtZW50LWFmdGVyLXRzbWMtZ2VybWFueS1pbnZlc3RtZW50LTIwMjMtMDgtMDkv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": "https://i.guim.co.uk/img/media/0fe2a28a618f091278056c6c3d77c06b68ccfb9c/0_140_3014_1808/master/3014.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=82304a67c7206f318787ec25343f6a05",
+      "publishedAt": "2023-08-09T03:45:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "8",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Emma Johnson",
+      "title": "Novo Nordisk weight-loss drug Wegovy launched in Germany, first big EU market - Reuters",
+      "description": "Novo Nordisk weight-loss drug Wegovy launched in Germany, first big EU market  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS9idXNpbmVzcy9oZWFsdGhjYXJlLXBoYXJtYWNldXRpY2Fscy9ub3ZvLW5vcmRpc2std2VpZ2h0LWxvc3MtZHJ1Zy13ZWdvdnktbGF1bmNoZWQtZ2VybWFueS1maXJzdC1iaWctZXUtbWFya2V0LTIwMjMtMDctMjkv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": "https://i.guim.co.uk/img/media/89711d4defcd28e766005b785bebbe783c8325df/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ccdcedfdacb2e15656c3ff56458fc2b3",
+      "publishedAt": "2023-07-29T14:42:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "9",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Michael Lee",
+      "title": "ECB is on back foot and for once it's down to Germany - Flipboard",
+      "description": "ECB is on back foot and for once it's down to Germany  Flipboard",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiqAFodHRwczovL2ZsaXBib2FyZC5jb20vdG9waWMvZXVyb3BlYW5jZW50cmFsYmFuay9lY2ItaXMtb24tYmFjay1mb290LWFuZC1mb3Itb25jZS1pdC1zLWRvd24tdG8tZ2VybWFueS9hLUI1YzdFcTRjVHhLZXNOaFRFazR3eWclM0FhJTNBMTQxNDYwNTU0My02ZDkxZWFmODdlJTJGcmV1dGVycy5jb23SAbMBaHR0cHM6Ly9mbGlwYm9hcmQuY29tL3RvcGljL2V1cm9wZWFuY2VudHJhbGJhbmsvZWNiLWlzLW9uLWJhY2stZm9vdC1hbmQtZm9yLW9uY2UtaXQtcy1kb3duLXRvLWdlcm1hbnkvYS1CNWM3RXE0Y1R4S2VzTmhURWs0d3lnJTNBYSUzQTE0MTQ2MDU1NDMtNmQ5MWVhZjg3ZSUyRnJldXRlcnMuY29tP2Zvcm1hdD1hbXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": "https://a.fsdn.com/sd/topics/business_64.png",
+      "publishedAt": "2023-08-11T15:39:06Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "10",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Sophia Smith",
+      "title": "Germany walks back plan to meet NATO spending target on annual ... - Reuters",
+      "description": "Germany walks back plan to meet NATO spending target on annual ...  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9nZXJtYW55LXdhbGtzLWJhY2stcGxhbi1tZWV0LW5hdG8tc3BlbmRpbmctdGFyZ2V0LWFubnVhbC1iYXNpcy0yMDIzLTA4LTE2L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/V2nvETLDpK7ckzSSrSsXF5-1200-80.jpg",
+      "publishedAt": "2023-08-16T12:30:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "11",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Daniel Williams",
+      "title": "Germany fails to pass tax relief law in coalition spat - Reuters",
+      "description": "Germany fails to pass tax relief law in coalition spat  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9nZXJtYW55LWZhaWxzLXBhc3MtdGF4LXJlbGllZi1sYXctY29hbGl0aW9uLXNwYXQtMjAyMy0wOC0xNi_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": "https://i.guim.co.uk/img/media/554cfa1593926ecb1c17da636c76ff4990a14239/74_2008_868_521/master/868.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6a36235717dcfde75f35f006fab91a9",
+      "publishedAt": "2023-08-16T17:21:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "12",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Olivia Brown",
+      "title": "JPMorgan to expand online bank Chase to Germany, EU, Handelsblatt reports - Reuters.com",
+      "description": "JPMorgan to expand online bank Chase to Germany, EU, Handelsblatt reports  Reuters.com",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2ZpbmFuY2UvanBtb3JnYW4tZXhwYW5kLW9ubGluZS1iYW5rLWNoYXNlLWdlcm1hbnktZXUtaGFuZGVsc2JsYXR0LTIwMjMtMDctMjEv0gEA?oc%3D5%26hl%3Den-CA%26gl%3DCA%26ceid%3DCA:en&gl=FR&hl=en-CA&cm=2&pc=n&src=1",
+      "urlToImage": "https://i.insider.com/64bed58dbea3440019604942?width=1200&format=jpeg",
+      "publishedAt": "2023-07-21T15:24:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "13",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Noah Martin",
+      "title": "Valente maintains golden start for U.S, Hinze shines for Germany - Reuters",
+      "description": "Valente maintains golden start for U.S, Hinze shines for Germany  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3Nwb3J0cy9jeWNsaW5nL2hpbnplLXBvd2Vycy1zZWNvbmQtZ29sZC13b3JsZC1jaGFtcGlvbnNoaXBzLTIwMjMtMDgtMDQv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": "https://i.guim.co.uk/img/media/9baf60d2b84a7528544064f273ee2092b9f5dffd/0_200_3838_2303/master/3838.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b3c3da29f6a7b25471dec6e3668fe7c",
+      "publishedAt": "2023-08-04T21:30:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "14",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Ava Johnson",
+      "title": "DAZN to stream Saudi Pro League matches in six countries including UK, Germany - Flipboard",
+      "description": "DAZN to stream Saudi Pro League matches in six countries including UK, Germany  Flipboard",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiugFodHRwczovL2ZsaXBib2FyZC5jb20vdG9waWMvYXNpYW5mb290YmFsbC9kYXpuLXRvLXN0cmVhbS1zYXVkaS1wcm8tbGVhZ3VlLW1hdGNoZXMtaW4tc2l4LWNvdW50cmllcy1pbmNsdWRpbmctdWstZ2VybWFueS9hLVNhSXNWVXFPUU9Hd21BWmdNM2tSY0ElM0FhJTNBMzExNTE1MzYyMC0wNGNiOWU2NmEzJTJGcmV1dGVycy5jb23SAcUBaHR0cHM6Ly9mbGlwYm9hcmQuY29tL3RvcGljL2FzaWFuZm9vdGJhbGwvZGF6bi10by1zdHJlYW0tc2F1ZGktcHJvLWxlYWd1ZS1tYXRjaGVzLWluLXNpeC1jb3VudHJpZXMtaW5jbHVkaW5nLXVrLWdlcm1hbnkvYS1TYUlzVlVxT1FPR3dtQVpnTTNrUmNBJTNBYSUzQTMxMTUxNTM2MjAtMDRjYjllNjZhMyUyRnJldXRlcnMuY29tP2Zvcm1hdD1hbXA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": "https://i.guim.co.uk/img/media/4e6d9e90b85f3bf508d5407a6290d860ba02c5d5/0_46_4256_2554/master/4256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=220580589d3f004b22b96791f19c3ae0",
+      "publishedAt": "2023-08-09T17:04:17Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "15",
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Liam Lee",
+      "title": "U.S. to impose tariffs on tin mill steel from Canada, China, Germany ... - Reuters",
+      "description": "U.S. to impose tariffs on tin mill steel from Canada, China, Germany ...  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvY29tbW9kaXRpZXMvdXMtaW1wb3NlLXRhcmlmZnMtdGluLW1pbGwtc3RlZWwtY2FuYWRhLWNoaW5hLWdlcm1hbnktY29tbWVyY2UtZGVwdC0yMDIzLTA4LTE3L9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3F0A/production/_130483161_photo-2023-07-20-07-05-212.jpg",
+      "publishedAt": "2023-08-17T13:14:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "id": "16",
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Isabella Smith",
+      "title": "Germany arranges supply of 30 Leopard 1 tanks for Ukraine",
+      "description": "Arms firm Rheinmetall to refurbish vehicles following military aid package announced at Nato summitThirty secondhand Leopard I battle tanks are to be refurbished by the arms manufacturer Rheinmetall at the orders of the German government and exported to Ukrai…",
+      "url": "https://www.theguardian.com/world/2023/aug/09/germany-arranges-supply-of-30-leopard-1-tanks-for-ukraine",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/uqafpPXY3z0YglV3ClgHXA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-07/49f3d0f0-2f87-11ee-9e78-996dad01e117.cf.jpg",
+      "publishedAt": "2023-08-09T15:53:04Z",
+      "content": "Thirty secondhand Leopard I battle tanks are to be refurbished by the arms manufacturer Rheinmetall at the orders of the German government and exported to Ukraine, a spokesperson for the company has … [+7631 chars]"
+    },
+    {
+      "id": "17",
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Ethan Johnson",
+      "title": "Popp’s double helps Germany ruin Morocco’s Women’s World Cup debut",
+      "description": "After an opening night upset and some unexpectedly close games so far in the Women’s World Cup, there was an open, albeit optimistic question as to whether Morocco could give Germany a scare. But it was evident from the first whistle that Morocco were not goi…",
+      "url": "https://www.theguardian.com/football/2023/jul/24/popps-double-helps-germany-ruin-moroccos-womens-world-cup-debut-match-report",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/XyeDoLglbSPEfxqXfuJcVg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/cf5e0610-3749-11ee-bf7f-172b93fb63ee.cf.jpg",
+      "publishedAt": "2023-07-24T12:22:39Z",
+      "content": "After an opening night upset and some unexpectedly close games so far in the Womens World Cup, there was an open, albeit optimistic question as to whether Morocco could give Germany a scare. But it w… [+2953 chars]"
+    },
+    {
+      "id": "18",
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Mia Williams",
+      "title": "Women’s World Cup 2023 team guides part 30: Germany",
+      "description": "Runners-up at the European Championship, Germany are riding the crest of a wave and feel they can go all the way this timeThis article is part of the Guardian’s Women’s World Cup 2023 Experts’ Network, a cooperation between some of the best media organisation…",
+      "url": "https://www.theguardian.com/football/2023/jul/18/womens-world-cup-2023-team-guides-part-30-germany",
+      "urlToImage": "https://i.guim.co.uk/img/media/ec6e1e60eaf2377487f14f375bd34a57e393b7e4/0_405_6638_3983/master/6638.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bffc91c2f8310466af1609c1d3f20ca6",
+      "publishedAt": "2023-07-18T10:59:37Z",
+      "content": "This article is part of the Guardians Womens World Cup 2023 Experts Network, a cooperation between some of the best media organisations from the 32 countries who qualified. theguardian.com is running… [+11236 chars]"
+    },
+    {
+      "id": "19",
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "James Brown",
+      "title": "Germany v Morocco: Women’s World Cup 2023 – live",
+      "description": "<ul><li>Group H match in Melbourne kicks off at 9.30am (BST)</li><li>Women’s World Cup 2023: your guide to all 736 players</li><li>Email Barry here or tweet him @bglendenning</li></ul>Rosella Ayane: The sole member of the Morocco squad to play in the English …",
+      "url": "https://www.theguardian.com/football/live/2023/jul/24/germany-v-morocco-womens-world-cup-2023-live",
+      "urlToImage": "https://i.guim.co.uk/img/media/09a19b43ccc575f8f064bc51789631e1e336b0d9/0_179_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a0b80883a0c98abc6f90f44a75236ca",
+      "publishedAt": "2023-07-24T07:41:22Z",
+      "content": "&lt;strong&gt;Germany:&lt;/strong&gt; Frohms, Huth, Hendrich, Doorsoun, Rauch, Leupolz, Dabritz, Brand, Magull, Buhl, Popp.&lt;/p&gt;\",\"elementId\":\"ab5542ad-db3a-4e57-8116-4f990c8551b8\"},{\"_type\":\"mo… [+65481 chars]"
+    },
+    {
+      "id": "20",
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Amelia Martin",
+      "title": "Germany v Colombia: Women’s World Cup 2023 – live",
+      "description": "<ul><li>Live updates of Group H clash in Sydney</li><li>Kick-off at 10.30am BST/ 7.30pm AEST/ 9.30pm NZST</li><li>Any thoughts? You can email Danial or tweet him</li></ul>And earlier, from our group:I’m going to write those down, then we’ll talk about what th…",
+      "url": "https://www.theguardian.com/football/live/2023/jul/30/germany-v-colombia-womens-world-cup-2023-live",
+      "urlToImage": "https://i.insider.com/64cfc17ff5d4870019e28c6c?width=1200&format=jpeg",
+      "publishedAt": "2023-07-30T08:42:02Z",
+      "content": "&lt;strong&gt;Germany (4-2-3-1):&lt;/strong&gt; Frohms; Hagel, Hendrich, Huth, Doorsoun; Oberdorf, Däbritz; Bühl, Magull, Brand; Popp. &lt;strong&gt;Subs: &lt;/strong&gt;Berger, Johannes, Kleinherne,… [+6166 chars]"
+    },
+    {
+      "id": "21",
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Benjamin Lee",
+      "title": "Matildas bring magic and Colombia stun Germany – Women’s Football Weekly",
+      "description": "Faye Carruthers has Rachel Brown-Finnis, Júlia Belas Trindade and Chris Slegg alongside her as the group stages begin to reach their climaxOn today’s pod: what a couple of days of football!The co-hosts Australia are through and they didn’t even need Sam Kerr …",
+      "url": "https://www.theguardian.com/football/audio/2023/jul/31/matildas-bring-magic-and-colombia-stun-germany-womens-football-weekly",
+      "urlToImage": "https://i.guim.co.uk/img/media/86f5f5a4d4c0ecaa8421ad5834aec1663d299d9c/0_136_2501_1500/master/2501.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a9b209f266ea00e3ab4ac3d3e586e27",
+      "publishedAt": "2023-07-31T18:39:13Z",
+      "content": "On todays pod: what a couple of days of football!\r\nThe co-hosts Australia are through and they didnt even need Sam Kerr to knock out the Olympic champions, Canada. Nigeria join them in the last 16 af… [+749 chars]"
+    },
+    {
+      "id": "22",
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Sophia Johnson",
+      "title": "South Korea v Germany: Women’s World Cup 2023 – live",
+      "description": "<ul><li>Live updates from the 11am BST/10pm NZST/8pm AEST game</li><li>Get in touch! Email Will or tweet @Will_Unwin</li></ul>Germany are aiming to avoid the embarrassment of being knocked out at the group stage. After starting off with a 6-0 win over Morocco…",
+      "url": "https://www.theguardian.com/football/live/2023/aug/03/south-korea-v-germany-womens-world-cup-2023-live-score-updates",
+      "urlToImage": "https://i.guim.co.uk/img/media/1c830c2b66f08d0f80a15496b6b60d881d5420e1/0_263_6400_3840/master/6400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a89352bad5c11d9d01b73beb9974b9e",
+      "publishedAt": "2023-08-03T09:00:40Z",
+      "content": "South Korea are managed by Englishman Colin Bell, who was hoping for a better tournament. Instead he has overseen two defeats in as many games. \r\nThe expectation when you come to a World Cup is obvio… [+1750 chars]"
+    },
+    {
+      "id": "23",
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Elijah Williams",
+      "title": "Japan joy, Germany dejection: Women’s World Cup power rankings",
+      "description": "We rank the teams after a group stage characterised by shocks and emerging stars, from Miyazawa to Caicedo and DumornayWith three wins, 11 goals and none conceded, Futoshi Ikeda’s team have arguably been the best so far. Their 4-0 defeat of Spain in particula…",
+      "url": "https://www.theguardian.com/football/2023/aug/04/japan-joy-germany-dejection-womens-world-cup-power-rankings",
+      "urlToImage": "https://i.guim.co.uk/img/media/f115fcd41b87d605d073986996f5ee28ca6ce211/0_164_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe9cf384eee0ef0977b7821b9415ef4e",
+      "publishedAt": "2023-08-04T13:00:14Z",
+      "content": "1) Japan\r\nWith three wins, 11 goals and none conceded, Futoshi Ikedas team have arguably been the best so far. Their 4-0 defeat of Spain in particular was eye-catching as they picked apart their oppo… [+15328 chars]"
+    },
+    {
+      "id": "24",
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "Ava Martin",
+      "title": "Germany Spends Big To Win $11 Billion TSMC Chip Plant",
+      "description": "TSMC is committing $3.8 billion to establish its first European factory in Germany, benefiting from significant state support for the $11 billion project as Europe aims to shorten supply chains. Reuters reports: The plant, which will be TSMC's third outside o…",
+      "url": "https://hardware.slashdot.org/story/23/08/08/2055201/germany-spends-big-to-win-11-billion-tsmc-chip-plant",
+      "urlToImage": "https://i.guim.co.uk/img/media/9f5786fe5d3c9964d0f42d3ef8f5e25f77a0e5b0/0_107_4931_2959/master/4931.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e2e8711fc0bbf88029a16ae60606749e",
+      "publishedAt": "2023-08-08T23:20:00Z",
+      "content": "The plant, which will be TSMC's third outside of traditional manufacturing bases Taiwan and China, is central to Berlin's ambition to foster the domestic semiconductor industry its car industry will … [+1142 chars]"
+    },
+    {
+      "id": "25",
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Noah Brown",
+      "title": "Samsung accidentally announces the One UI 6 beta",
+      "description": "Samsung Germany prematurely published the One UI 6 beta announcement before deleting it. However, we were able to retrieve some details about the update.",
+      "url": "https://www.androidcentral.com/apps-software/one-ui-6-beta-accidentally-announced-prematurely",
+      "urlToImage": "https://i.guim.co.uk/img/media/0a4e62db599ea68b57a35b561f24438b6efe9a3c/0_0_3167_1901/master/3167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=e6a35ca938a38428cdf6e3de8da79e13",
+      "publishedAt": "2023-08-07T19:24:55Z",
+      "content": "<ul><li>Samsung Germany temporarily published an announcement for the One UI 6 beta before it was deleted.</li><li>The announcement highlighted an updated Quick Settings menu with revamped buttons fo… [+1911 chars]"
+    },
+    {
+      "id": "26",
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Emma Smith",
+      "title": "David Squires on … week two of Sam Kerr Calf Watch (and the World Cup)",
+      "description": "Our resident cartoonist on the Women’s World Cup headlines, from Colombia’s shock win over Germany to Canada’s high-class insults Continue reading...",
+      "url": "https://www.theguardian.com/football/ng-interactive/2023/aug/01/david-squires-sam-kerr-calf-watch-womens-world-cup-week-two-cartoon",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F07%2Fgermany-chips-funding-semiconductors.jpg&signature=0d6854e089700f446b8e687664a18a1b",
+      "publishedAt": "2023-08-01T14:00:03Z",
+      "content": "Our resident cartoonist on the Womens World Cup headlines, from Colombias shock win over Germany to Canadas high-class insults"
+    },
+    {
+      "id": "27",
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Liam Johnson",
+      "title": "German ATMs keep getting bombed as a crime wave exploits the country's preference for cash",
+      "description": "Last year, about 30 million euros were stolen via ATM bombings in Germany, up 53% from a year earlier.",
+      "url": "https://markets.businessinsider.com/news/currencies/german-atm-bombing-gang-crime-wave-cash-preference-euro-banks-2023-7",
+      "urlToImage": "https://i.guim.co.uk/img/media/0f469fd1d1f7bce416a4a8455cff8623c93cce4d/0_119_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2900c902dc3efdc10c682ca0e5a1b107",
+      "publishedAt": "2023-07-24T19:59:30Z",
+      "content": "REUTERS/Susana Vera\r\n<ul>\n<li>In the past few years, Germany has become a hotbed for ATM bombings, the Financial Times wrote.</li>\n<li>That's because Germans still favor cash over electronic payments… [+2406 chars]"
+    },
+    {
+      "id": "28",
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Olivia Martin",
+      "title": "Germany crash out of World Cup in huge upset after draw with South Korea",
+      "description": "South Korea took the biggest scalp of the World Cup group stage, a stunning defensive performance earning a 1-1 draw that has sent the tournament favourites Germany out of the competition.Alex Popp’s header at the close of the first half cancelled out Cho So-…",
+      "url": "https://www.theguardian.com/football/2023/aug/03/germany-crash-out-of-womens-world-cup-south-korea",
+      "urlToImage": "https://i.guim.co.uk/img/media/7d92b9b7b82d2c7626dd54b22e5e8516316658c1/0_415_8568_5141/master/8568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1dd60a644a24319b9279123dc61ec189",
+      "publishedAt": "2023-08-03T12:22:43Z",
+      "content": "South Korea took the biggest scalp of the World Cup group stage, a stunning defensive performance earning a 1-1 draw that has sent the tournament favourites Germany out of the competition.\r\nAlex Popp… [+8351 chars]"
+    },
+    {
+      "id": "29",
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Michael Brown",
+      "title": "Floods turn world’s biggest heavy metal festival into mudbath",
+      "description": "Organisers forced to cap numbers of ticket holders allowed entry to event in Schleswig-Holstein, GermanyTorrential rain in Germany has turned the grounds of the world’s largest heavy metal festival into a mudbath, forcing organisers to turn many ticket holder…",
+      "url": "https://www.theguardian.com/world/2023/aug/03/floods-turn-worlds-biggest-heavy-metal-festival-into-mudbath-wacken-open-air",
+      "urlToImage": "https://i.guim.co.uk/img/media/add99e2f2b0975cb5b42f109649e53941e66a83b/143_340_3554_2133/master/3554.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0428b5732fef4ea1545a9e436662425d",
+      "publishedAt": "2023-08-03T11:27:19Z",
+      "content": "Torrential rain in Germany has turned the grounds of the worlds largest heavy metal festival into a mudbath, forcing organisers to turn many ticket holders away.\r\nWacken Open Air in Schleswig-Holstei… [+2104 chars]"
+    },
+    {
+      "id": "30",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Sophia Williams",
+      "title": "Jamshid Sharmahd: Iran could execute my dad at any time, says German woman",
+      "description": "An Iranian-German businessman on death row may have made his last phone call, his daughter fears.",
+      "url": "https://www.bbc.co.uk/news/world-europe-66268645",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14119/production/_130710228_mediaitem130710224.jpg",
+      "publishedAt": "2023-07-21T23:17:43Z",
+      "content": "It was the middle of the night when the phone call came. \r\nGazelle Sharmahd was woken up by her mother, who told her that her father, Jamshid, was calling from his jail cell in Iran. Gazelle hadn't b… [+6002 chars]"
+    }
+  ]
+}
